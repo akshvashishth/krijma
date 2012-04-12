@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <golbal>
+            <basic_property html_title="Title" loadStyle="Pie" hideAdobeMenu="false" photoDynamicShow="false" enableURL="true" startAutoPlay="true" screenfullButton="true"/>
+            <music_property path="" stream="true" loop="true"/>
+            <description_property enable="true" backgroundColor="0xc0c0c0" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+            <background_property backgroundColor="0xffffff" mode="tile"/>
+        </golbal>
+        <photo>
+            <basic_property photoBackColor="0xfffbf0" photoTitleColor="0x000000" PhotoMaxWidth="400" PhotoMaxHeight="300" EnableColorTransform="false"/>
+        </photo>
+        <thumbnail>
+            <basic_property thumWidth="85" thumHeight="100" thumbnailTextColor="0x000000" thumbnailColor="0xfffbf0" thumborder="5" thumradius="160" Enableshadow="true" shapeborder="1" shapeAlpha="80" rotationspeed="4" Rdirection="inward"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="1" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="10" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="2" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="3" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="4" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="5" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="6" width="400" height="300"/>
+    </album>
+</flash_parameters>

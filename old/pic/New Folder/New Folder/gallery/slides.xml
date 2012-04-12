@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="400" movieHeight="300" startAutoPlay="true" backgroundColor="0x999999" continuum="true" html_title="Title" loadStyle="Pie" hideAdobeMenu="false" photoDynamicShow="false" enableURL="true" transitionArray=""/>
+            <title_property photoTitle="false" photoTitleX="5" photoTitleY="25" photoTitleSize="20" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+            <properties enable="true" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+        </global>
+        <control>
+            <basic_property showControl="false" showControlX="-30" showControlY="460" showPreviousButton="res/previous01.gif" showPreviousButtonX="50" showStopButton="res/stop01.gif" showStopButtonX="97" showPlayButton="res/play01.gif" showPlayButtonX="97" showNextButton="res/next01.gif" showNextButtonX="124" showSoundButtonX="182"/>
+        </control>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="1" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="10" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="2" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="3" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="4" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="5" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="6" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="7" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="8" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="9" width="400" height="300"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="29" panzoom="1" URLTarget="0" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker" width="400" height="300"/>
+    </album>
+</flash_parameters>
